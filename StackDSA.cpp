@@ -26,7 +26,6 @@ int main()
 
     do 
     {
-        std::cout << "\n--- Stack Menu ---\n";
         std::cout << "1. Add name\n";
         std::cout << "2. Pop name\n";
         std::cout << "3. Display contents\n";
